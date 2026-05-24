@@ -61,4 +61,6 @@ switch:
       - port: 12
         name: "Light Desk"
 
-<img width="815" height="640" alt="04_configuration_yaml" src="https://github.com/user-attachments/assets/a6eb015e-2cde-457f-aaa2-ee42952d7d09" />
+```
+<img width="815" height="640" alt="04_configuration_yaml" src="https://github.com/user-attachments/assets/e132cd85-2d1e-4d87-b650-f627dcddd93f" />
+
