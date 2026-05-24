@@ -65,7 +65,9 @@ switch:
 <img width="815" height="640" alt="04_configuration_yaml" src="https://github.com/user-attachments/assets/e132cd85-2d1e-4d87-b650-f627dcddd93f" />
 
 ## 7. result
-![Result](images/HW5.png)
+<img width="3024" height="4032" alt="HW5_result" src="https://github.com/user-attachments/assets/66618380-d72d-4c19-9e86-d7b6b069bb23" />
 
-[Watch demo video](images/HW5.mp4)
+
+https://github.com/user-attachments/assets/f343dbf0-6d26-490d-9762-6093a28203db
+
 
