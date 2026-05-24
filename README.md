@@ -68,6 +68,10 @@ switch:
 <img width="3024" height="4032" alt="HW5_result" src="https://github.com/user-attachments/assets/66618380-d72d-4c19-9e86-d7b6b069bb23" />
 
 
-https://github.com/user-attachments/assets/f343dbf0-6d26-490d-9762-6093a28203db
+
+
+https://github.com/user-attachments/assets/5b35b83f-eb51-4aeb-bef8-3e84a1051e1b
+
+
 
 
